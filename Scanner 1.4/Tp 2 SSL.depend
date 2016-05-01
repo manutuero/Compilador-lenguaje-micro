@@ -1,0 +1,545 @@
+# depslib dependency file v1.0
+1444878205 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\error.c
+	<stdio.h>
+	"error.h"
+
+1446081883 
+
+1444878268 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\error.h
+	"scanner.h"
+
+1445477547 "
+
+1444877260 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\scanner.h
+
+1444877980 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1444878447 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\symbol.h
+	"scanner.h"
+
+1444878455 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\symbol.c
+	<ctype.h>
+	<string.h>
+	"symbol.h"
+
+1444878242 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10\main.c
+	<stdio.h>
+	"scanner.h"
+
+1444878205 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\error.c
+	<stdio.h>
+	"error.h"
+
+1444878268 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\error.h
+	"scanner.h"
+
+1445102701 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\scanner.h
+
+1444878242 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\main.c
+	<stdio.h>
+	"scanner.h"
+
+1445104130 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1444878447 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\symbol.h
+	"scanner.h"
+
+1445102507 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\daniel guerrero\entrega 14-10 (ultima version)\symbol.c
+	<ctype.h>
+	<string.h>
+	"symbol.h"
+
+1445123965 source:c:\users\danie_000\desktop\scanner- version 1.0\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\desktop\scanner- version 1.0\error.h
+	"scanner.h"
+
+1445094012 c:\users\danie_000\desktop\scanner- version 1.0\scanner.h
+
+1445094010 source:c:\users\danie_000\desktop\scanner- version 1.0\main.c
+	<stdio.h>
+	"scanner.h"
+
+1445124063 source:c:\users\danie_000\desktop\scanner- version 1.0\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1445122911 c:\users\danie_000\desktop\scanner- version 1.0\symbol.h
+	"scanner.h"
+
+1445124059 source:c:\users\danie_000\desktop\scanner- version 1.0\symbol.c
+	<ctype.h>
+	<string.h>
+	"symbol.h"
+
+1445123965 source:c:\users\danie_000\desktop\scanner- version  beta 1.1.0\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\desktop\scanner- version  beta 1.1.0\error.h
+	"scanner.h"
+
+1445094012 c:\users\danie_000\desktop\scanner- version  beta 1.1.0\scanner.h
+
+1445136498 source:c:\users\danie_000\desktop\scanner- version  beta 1.1.0\main.c
+	<stdio.h>
+	"scanner.h"
+
+1445137729 source:c:\users\danie_000\desktop\scanner- version  beta 1.1.0\parser.c
+	"parser.h"
+
+1444541120 c:\users\danie_000\desktop\scanner- version  beta 1.1.0\parser.h
+	"semantic.h"
+
+1446081944 h"
+
+1444541118 c:\users\danie_000\desktop\scanner- version  beta 1.1.0\semantic.h
+	"symbol.h"
+
+1445138557 c:\users\danie_000\desktop\scanner- version  beta 1.1.0\symbol.h
+	"scanner.h"
+
+1445138415 source:c:\users\danie_000\desktop\scanner- version  beta 1.1.0\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1445138511 source:c:\users\danie_000\desktop\scanner- version  beta 1.1.0\symbol.c
+	<ctype.h>
+	<string.h>
+	"symbol.h"
+
+1445123965 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\error.h
+	"scanner.h"
+
+1445415239 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\scanner.h
+
+1445412848 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1445414884 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1445414874 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\symbol.h
+	"scanner.h"
+
+1445416201 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1445415919 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\parser.c
+	"parser.h"
+
+1445415918 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\parser.h
+	"error.h"
+	"semantic.h"
+
+1445416314 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\semantic.h
+	"symbol.h"
+
+1445415452 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1445416705 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  beta 1.1.0\scanner- version  beta 1.1.0\semantic.c
+	<stdio.h>
+	"semantic.h"
+
+1445123965 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\error.h
+	"scanner.h"
+
+1445415239 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\scanner.h
+
+1445412848 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1445415918 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\parser.h
+	"error.h"
+	"semantic.h"
+
+1445418167 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\semantic.h
+	"symbol.h"
+
+1445414874 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\symbol.h
+	"scanner.h"
+
+1445414884 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1445423025 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1445423737 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\parser.c
+	"parser.h"
+	"semantic.h"
+
+1445423094 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.1\semantic.c
+	<stdio.h>
+	<string.h>
+	"semantic.h"
+	"scanner.h"
+	"symbol.h"
+
+1445123965 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\error.h
+	"scanner.h"
+
+1445415239 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\scanner.h
+
+1445412848 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1445415918 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\parser.h
+	"error.h"
+	"semantic.h"
+
+1445427479 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\semantic.h
+	"symbol.h"
+
+1445477547 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\symbol.h
+	"scanner.h"
+
+1445497679 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\parser.c
+	"parser.h"
+	"semantic.h"
+
+1446026067 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1446081302 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\semantic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"semantic.h"
+	"scanner.h"
+	"symbol.h"
+
+1445497044 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.2\scanner- version  1.2\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1445123965 source:c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\error.h
+	"scanner.h"
+
+1445415239 c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\scanner.h
+
+1445412848 source:c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1445415918 c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\parser.h
+	"error.h"
+	"semantic.h"
+
+1445427479 c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\semantic.h
+	"symbol.h"
+
+1445477547 c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\symbol.h
+	"scanner.h"
+
+1445497679 source:c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\parser.c
+	"parser.h"
+	"semantic.h"
+
+1445497044 source:c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1446081715 source:c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1446081883 source:c:\users\danie_000\downloads\scanner- version  1.3\scanner- version  1.3\semantic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"semantic.h"
+	"symbol.h"
+
+1445123965 source:c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\error.h
+	"scanner.h"
+
+1445415239 c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\scanner.h
+
+1445412848 source:c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1445415918 c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\parser.h
+	"error.h"
+	"semantic.h"
+
+1445427479 c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\semantic.h
+	"symbol.h"
+
+1445477547 c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\symbol.h
+	"scanner.h"
+
+1445497679 source:c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\parser.c
+	"parser.h"
+	"semantic.h"
+
+1446081715 source:c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1446081883 source:c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\semantic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"semantic.h"
+	"symbol.h"
+
+1446081944 source:c:\users\danie_000\desktop\scanner- version  1.3\scanner- version  1.3\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1445123965 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\error.c
+	<stdio.h>
+	"error.h"
+
+1445094008 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\error.h
+	"scanner.h"
+
+1445415239 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\scanner.h
+
+1445412848 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1445415918 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\parser.h
+	"error.h"
+	"semantic.h"
+
+1445427479 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\semantic.h
+	"symbol.h"
+
+1445477547 c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\symbol.h
+	"scanner.h"
+
+1445497679 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\parser.c
+	"parser.h"
+	"semantic.h"
+
+1446081715 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1446081883 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\semantic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"semantic.h"
+	"symbol.h"
+
+1446081944 source:c:\users\danie_000\onedrive\documentos\sintaxis y semantica de los lenguajes\tp 2 ssl\scanner- version  1.3\scanner- version  1.3\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1446092230 source:/home/daniel/Descargas/Scanner/error.c
+	<stdio.h>
+	"error.h"
+
+1446092230 /home/daniel/Descargas/Scanner/error.h
+	"scanner.h"
+
+1446092228 /home/daniel/Descargas/Scanner/scanner.h
+
+1446092230 source:/home/daniel/Descargas/Scanner/parser.c
+	"parser.h"
+	"semantic.h"
+
+1446092230 /home/daniel/Descargas/Scanner/parser.h
+	"error.h"
+	"semantic.h"
+
+1446092228 /home/daniel/Descargas/Scanner/semantic.h
+	"symbol.h"
+
+1446092228 /home/daniel/Descargas/Scanner/symbol.h
+	"scanner.h"
+
+1446092902 source:/home/daniel/Descargas/Scanner/semantic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"semantic.h"
+	"symbol.h"
+
+1446092898 source:/home/daniel/Descargas/Scanner/symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
+1447256455 source:/home/daniel/Descargas/Scanner/main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1447257228 source:/home/daniel/Descargas/Scanner/scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1447239694 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\error.c
+	<stdio.h>
+	"error.h"
+
+1447239694 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\error.h
+	"scanner.h"
+
+1447239678 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\scanner.h
+
+1447239696 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\main.c
+	<stdio.h>
+	"scanner.h"
+	"parser.h"
+
+1447239690 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\parser.h
+	"error.h"
+	"semantic.h"
+
+1447239698 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\semantic.h
+	"symbol.h"
+
+1447239700 e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\symbol.h
+	"scanner.h"
+
+1447239682 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\parser.c
+	"parser.h"
+	"semantic.h"
+
+1447261262 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\scanner.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"scanner.h"
+	"symbol.h"
+	"error.h"
+
+1447239676 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\semantic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"semantic.h"
+	"symbol.h"
+
+1447239680 source:e:\utn\sintaxis y semantica de los lenguajes\tp compilador micro\segunda entrega\scanner 1.4\symbol.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"scanner.h"
+	"symbol.h"
+	"semantic.h"
+
